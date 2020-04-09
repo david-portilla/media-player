@@ -5,3 +5,6 @@ function add(a: number, b: number) {
 }
 
 const sum = add(2, 3);
+
+let muted: boolean = true;
+muted = false;
